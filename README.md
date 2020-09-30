@@ -1,1 +1,1 @@
-# first_project
+# getting_started
